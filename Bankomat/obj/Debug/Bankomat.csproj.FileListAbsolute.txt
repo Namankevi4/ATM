@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.pdb

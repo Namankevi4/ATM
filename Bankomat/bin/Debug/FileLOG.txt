@@ -1,0 +1,23 @@
+
+2015-04-15 09:35:57,246 [ERROR] Bankomat.CompositionAlgorithm - Exception Error
+
+2015-04-15 09:36:18,774 [ERROR] Bankomat.CompositionAlgorithm - Exception Error
+
+2015-04-21 23:38:08,757 [ERROR] Bankomat.CompositionAlgorithm - ExceptiomNoCassete
+
+2015-04-21 23:38:08,765 [ERROR] Bankomat.CompositionAlgorithm - Exception NoMoney
+
+2015-04-21 23:39:25,090 [ERROR] Bankomat.CompositionAlgorithm - ExceptiomNoCassete
+
+2015-04-21 23:39:25,097 [ERROR] Bankomat.CompositionAlgorithm - Exception NoMoney
+
+2015-04-21 23:39:33,621 [ERROR] Bankomat.CompositionAlgorithm - Exception NoMoney
+
+2015-04-21 23:40:25,747 [ERROR] Bankomat.CompositionAlgorithm - Exception Error
+
+2015-04-21 23:42:43,185 [INFO] Bankomat.CompositionAlgorithm - AllOk
+
+2015-04-21 23:45:24,987 [INFO] Bankomat.CompositionAlgorithm - AllOk
+
+2015-04-21 23:45:56,300 [INFO] Bankomat.CompositionAlgorithm - AllOk
+
